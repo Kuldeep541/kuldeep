@@ -33,31 +33,31 @@ const contacts = [
   {
     icon: <Mail size={20} />,
     title: "Email",
-    value: "kuldeep@example.com",
-    link: "mailto:kuldeep@example.com"
+    value: "kuldeepprajapati2111@gmail.com",
+    link: "mailto:kuldeepprajapati2111@gmail.com"
   },
   {
     icon: <Phone size={20} />,
     title: "Phone",
-    value: "+91 9876543210",
-    link: "tel:+919876543210"
+    value: "+91 7380892966",
+    link: "tel:+917380892966"
   },
   {
     icon: <Linkedin size={20} />,
     title: "LinkedIn",
-    value: "linkedin.com/in/kuldeep",
+    value: "linkedin.com/in/kuldeep-prajapati-aa9276178",
     link: "https://linkedin.com/in/"
   },
   {
     icon: <Github size={20} />,
     title: "GitHub",
-    value: "github.com/kuldeep",
+    value: "github.com/kuldeep541",
     link: "https://github.com/"
   },
   {
     icon: <MapPin size={20} />,
     title: "Location",
-    value: "Uttar Pradesh, India"
+    value: "Lucknow,Uttar Pradesh, India"
   }
 ];
 
